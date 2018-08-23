@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PhonePosition>
-  <Position Latitude="5.5" Longitude="60.3"/>
+  <Position Latitude="5.5" Longitude="60.3">ThePosition</Position>
 </PhonePosition>
